@@ -1,0 +1,36 @@
+.centertext {
+    text-align: center;
+}
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.titles {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0085A1;
+}
+
+.subtitle {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.subsub {
+    font-weight: bold;
+    font-size: 20px;
+}
